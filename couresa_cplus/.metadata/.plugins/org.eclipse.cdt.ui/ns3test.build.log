@@ -1,0 +1,9 @@
+12:51:20 **** Build of configuration Debug for project ns3test ****
+/home/pcui/bitcpf/couresa_cplus/waf build 
+Cannot run program "/home/pcui/bitcpf/couresa_cplus/waf": Unknown reason
+
+Error: Program "/home/pcui/bitcpf/couresa_cplus/waf" not found in PATH
+PATH=[/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/usr/games:/usr/local/games:/home/pcui/development/android-sdk-linux/tools:/home/pcui/development/android-sdk-linux/platform-tools]
+
+12:51:21 Build Finished (took 49ms)
+

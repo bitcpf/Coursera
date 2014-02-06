@@ -1,0 +1,6 @@
+12:43:32 **** Clean-only build of configuration Default for project Test_in_vedio ****
+make clean 
+make: *** No rule to make target `clean'.  Stop.
+
+12:43:32 Build Finished (took 60ms)
+

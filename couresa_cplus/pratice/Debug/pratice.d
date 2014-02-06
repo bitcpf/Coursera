@@ -1,0 +1,1 @@
+pratice.d: ../pratice.cpp
